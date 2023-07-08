@@ -618,14 +618,14 @@ def Source_about_callback(update: Update, context: CallbackContext):
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/jam_music_updates)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Rishii7205/MANGEMENT1.0/blob/main/LICENSE).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Rishii7205/button/blob/main/LICENSE).
 © 2023 - 2024 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/mrtosumemon/DoReAmOnRoBoT")
+        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/rishii7205/button")
                 ],
                  [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
